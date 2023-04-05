@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author thade
+ *
+ */
+module cursoJava {
+}
